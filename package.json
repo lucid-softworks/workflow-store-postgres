@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/workflow-store-postgres",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Durable workflow checkpoint storage for pg-compatible PostgreSQL clients.",
   "keywords": [
     "javascript",
